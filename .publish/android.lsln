@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaSolutionDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups>
+    <DocumentRef FileName=".\androidLuaProject.luaproj" />
+  </DocumentGroups>
+  <DocumentFolders />
+  <ActiveProject FileName="C:\Users\lampardwade\Documents\Tetris\.publish\androidLuaProject.luaproj" />
+  <Id>52afb6ad-5243-44b2-bcc6-0d51750bd89a</Id>
+</XmlLuaSolutionDocument>

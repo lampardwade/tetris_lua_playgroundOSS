@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaSolutionDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups>
+    <DocumentRef FileName=".\LuaProject.luaproj" />
+  </DocumentGroups>
+  <DocumentFolders />
+  <ActiveProject FileName="C:\Users\lampardwade\Documents\Tetris\.publish\LuaProject.luaproj" />
+  <Id>9bc7c6de-0e8e-43f3-8827-b4483b31f63b</Id>
+</XmlLuaSolutionDocument>

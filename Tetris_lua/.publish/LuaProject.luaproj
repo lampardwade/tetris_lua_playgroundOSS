@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaProjectDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups />
+  <DocumentFolders>
+    <XmlDocumentFolder>
+      <Documents>
+        <DocumentRef FileName=".\start.lua" />
+        <DocumentRef FileName=".\vector2.lua" />
+        <DocumentRef FileName=".\define.lua" />
+        <DocumentRef FileName=".\manager.lua" />
+        <DocumentRef FileName=".\item.lua" />
+        <DocumentRef FileName=".\main.lua" />
+        <DocumentRef FileName=".\grid.lua" />
+      </Documents>
+      <DocumentGroups />
+      <DocumentFolders />
+      <RelativePath>.\\</RelativePath>
+    </XmlDocumentFolder>
+  </DocumentFolders>
+  <ProjectProperties>
+    <StartAction>StartExternalProgram</StartAction>
+    <CmdLineArgs>-i / -e _external/</CmdLineArgs>
+    <RemotePort>22001</RemotePort>
+    <StartupFileName />
+    <WorkingDir>C:\Users\lampardwade\Documents\Tetris\.publish</WorkingDir>
+    <UseRemoteMachine>true</UseRemoteMachine>
+    <RemoteMachineName>localhost</RemoteMachineName>
+    <BuildOutputDir />
+    <PreBuildEventCmdLine />
+    <PostBuildEventCmdLine />
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+  </ProjectProperties>
+</XmlLuaProjectDocument>
